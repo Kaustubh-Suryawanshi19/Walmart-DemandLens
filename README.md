@@ -688,7 +688,7 @@ Data Science / Machine Learning Engineering portfolio project focused on:
 
 **Data Science · Machine Learning · Time-Series Forecasting · AI Decision Intelligence · MLOps · Product Engineering**
 
-GitHub: [github.com/kaustubh18work](https://github.com/kaustubh18work)
+GitHub: [github.com/Kauatubh-Suryawanshi](https://github.com/Kauatubh-Suryawanshi)
 
 LinkedIn: [linkedin.com/in/kaustubh-suryawanshi18](https://linkedin.com/in/kaustubh-suryawanshi18)
 
