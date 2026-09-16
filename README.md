@@ -208,7 +208,7 @@ PDF + CSV Reports
 
 Walmart DemandLens is designed around the **Walmart M5 Forecasting Accuracy** dataset.
 
-The full M5 dataset is intentionally **not committed to this repository** because the raw files are large. This keeps the Git repository lightweight and suitable for GitHub and CI workflows.
+The full M5 dataset is intentionally **not committed to this repository** because the raw files are large. This keeps the Git repository lightweight and suitable for  and CI workflows.
 
 ### Official dataset
 
@@ -467,7 +467,7 @@ Walmart-DemandLens-Streamlit/
 Python 3.12 is recommended.
 
 ```bash
-git clone https://github.com/kaustubh18work/Walmart-DemandLens.git
+git clone https://github.com/Kaustubh-Suryawanshi19/Walmart-DemandLens.git
 cd Walmart-DemandLens
 
 python3.12 -m venv .venv
@@ -688,7 +688,7 @@ Data Science / Machine Learning Engineering portfolio project focused on:
 
 **Data Science · Machine Learning · Time-Series Forecasting · AI Decision Intelligence · MLOps · Product Engineering**
 
-GitHub: [github.com/Kauatubh-Suryawanshi](https://github.com/Kauatubh-Suryawanshi)
+GitHub: https://github.com/Kaustubh-Suryawanshi19
 
 LinkedIn: [linkedin.com/in/kaustubh-suryawanshi18](https://linkedin.com/in/kaustubh-suryawanshi18)
 
